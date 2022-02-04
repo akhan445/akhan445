@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm Abdullah and I enjoy building stuff.
+- 🌱 I’m currently learning React Native.
+- 💼Looking for employment opportunities: Here's my [resume](https://resume.creddle.io/resume/bkqmjzp66hv)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdullahskhan/)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=akhan445&count_private=true&show_icons=true&include_all_commits=true&border_color=2e4058)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhan445&layout=compact&border_color=2e4058)
+
+
 <!--
 **akhan445/akhan445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
