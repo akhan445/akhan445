@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Abdullah and I enjoy building stuff.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Java & Python.
 - 💼Looking for employment opportunities: Here's my [resume](https://resume.creddle.io/resume/bkqmjzp66hv)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdullahskhan/)
 
