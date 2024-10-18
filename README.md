@@ -6,8 +6,11 @@
   <li>🎒 Dual Bachelor's - Comp Sci & Business</li>
   <li>🌱 I'm focused on continuous growth and learning.</li>
   <li>💬 Curious about leveraging Machine Learning & AI to build scalable software for the public.</li>
-  <li>☕️ How to reach me: <a href="https://www.linkedin.com/in/abdullahskhan/">LinkedIn</a></li>
+  <li>☕️ <a href="https://www.linkedin.com/in/abdullahskhan/">Grab a coffee with me</a></li>
 </ul>
+
+🔗 Links: 👔 <a href="https://www.linkedin.com/in/abdullahskhan/">Linkedin</a>&ensp;|&ensp;🧾 <a href="https://abdullahkhan.io/resume">Resume</a>&ensp;|&ensp;🌎 <a href="https://abdullahkhan.io/">Website</a>&ensp;|&ensp;📧 <a href="mailto: abdullahshamskhan@gmail.com">Email</a>
+
 
 <br>
 
