@@ -1,11 +1,14 @@
-<h3 align="left">Hi 👋, I'm Abdullah Khan.</h3>
-<p align="left">A Software Engineer who enjoys head scratching problems. </p>
+Hi! I'm Abdullah Khan. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+=====================================================================================================================================
+
+<h3>Software Engineer = [ "Full Stack", "Backend" ]</h3>
+
 <h4 align="left">  About Me:</h4>
 <ul>
   <li>💼 Software Engineer who enjoys head scratching problems.</li>
   <li>🎒 Dual Bachelor's - Comp Sci & Business</li>
-  <li>🌱 I'm focused on continuous growth and learning.</li>
-  <li>💬 Curious about leveraging Machine Learning & AI to build scalable software for the public.</li>
+  <li>🌱 Innovation, Growth and Learning.</li>
+  <li>💬 What sparks my interest --> Leveraging Machine Learning & AI to solve real world problems.</li>
 </ul>
 
 🔗 Links: 👔 <a href="https://www.linkedin.com/in/abdullahskhan/">Linkedin</a>&ensp;|&ensp;🧾 <a href="https://abdullahkhan.io/resume">Resume</a>&ensp;|&ensp;🌎 <a href="https://abdullahkhan.io/">Website</a>&ensp;|&ensp;📧 <a href="mailto: abdullahshamskhan@gmail.com">Email</a>
@@ -68,13 +71,16 @@
 
 <br>
 
-<h4 align="left">📈 Stats:</h4>
+<h4 align="left">📈 MY Github Stats:</h4>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=akhan445&show_icons=true&locale=en" alt="akhan445" />
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhan445&show_icons=true&locale=en&layout=compact" alt="akhan445" />
 </p>
+<!-- <p>
+  <a href="http://www.github.com/akhan445"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=akhan445&bg_color=000000&color=3382ed&line=3382ed&point=3382ed&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p> -->
 
 <!--
 ### Hi there 👋
