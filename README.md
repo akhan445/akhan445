@@ -6,7 +6,7 @@ Hi! I'm Abdullah Khan. ![](https://user-images.githubusercontent.com/18350557/17
 <h4 align="left">  About Me:</h4>
 <ul>
   <li>💼 Software Engineer who enjoys head scratching problems.</li>
-  <li>🎒 Dual Bachelor's - Comp Sci & Business</li>
+  <li>🎒 Dual Bachelor's - Comp Sci & Business.</li>
   <li>🌱 Innovation, Growth and Learning.</li>
   <li>💬 What sparks my interest --> Leveraging Machine Learning & AI to solve real world problems.</li>
 </ul>
