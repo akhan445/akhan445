@@ -1,25 +1,53 @@
-## Hi, I'm Abdullah 👋
+<div align="center">
 
-Full stack software engineer in Toronto. I build backend services, automation and AI-powered tools that ship to production. Lately that means agentic workflows, MCP servers and voice assistants, and I'm most interested in automation, logistics and industrial software.
+# Abdullah Khan
 
-🌎 [abdullahkhan.io](https://abdullahkhan.io) · 💼 [LinkedIn](https://www.linkedin.com/in/abdullahskhan/) · 📧 [Email](mailto:abdullahshamskhan@gmail.com)
+**Full Stack Engineer** &nbsp;·&nbsp; **AI App Builder** &nbsp;·&nbsp; **Generalist**
 
-### What I'm building
+[![Website](https://img.shields.io/badge/abdullahkhan.io-5fd4c4?style=for-the-badge&logo=googlechrome&logoColor=0a1420)](https://abdullahkhan.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahskhan/)
 
-| Project | What it is |
-|---|---|
-| [**Scope to Ship**](https://github.com/akhan445/scope-to-ship) | Agent skill pack for spec-driven development: the agent plans scope, product and technical spec with you before any code, then builds in small verified slices. `npx skills add akhan445/scope-to-ship` |
-| [**Four Seasons of Canada**](https://github.com/akhan445/four-seasons-of-canada) | Interactive seasonal map of Canada, built end to end with Scope to Ship. Every planning document the agent produced is in the repo. |
-| [**Anchor**](https://github.com/akhan445/anchor-alexa-coach) | Adaptive routine coach for Alexa+: a self-hosted MCP server with Amazon Bedrock and Amazon Polly behind it. |
+</div>
 
-### Experience
+### Recent builds
 
-- **Nomad Fuel** · full stack features for a fuel and logistics platform serving truckers (React, Next.js, Nest.js, Python, GCP)
-- **Outlier AI** · evaluated LLM-generated code in Python, JavaScript and Java
-- **KPMG** · Python automation that cut security report turnaround by 2–3 days; integrated 100+ apps into an enterprise IAM platform
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/akhan445/scope-to-ship"><img src="https://abdullahkhan.io/projects/scope-to-ship.webp" alt="Scope to Ship"></a>
+      <br><b><a href="https://github.com/akhan445/scope-to-ship">Scope to Ship</a></b>
+      <br><sub>Agent skills that take an idea from spec to shipped app.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/akhan445/four-seasons-of-canada"><img src="https://abdullahkhan.io/projects/four-seasons-of-canada.webp" alt="Four Seasons of Canada"></a>
+      <br><b><a href="https://github.com/akhan445/four-seasons-of-canada">Four Seasons of Canada</a></b>
+      <br><sub>Interactive map, built end to end with Scope to Ship.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/akhan445/anchor-alexa-coach"><img src="https://abdullahkhan.io/projects/anchor-alexa-coach.webp" alt="Anchor"></a>
+      <br><b><a href="https://github.com/akhan445/anchor-alexa-coach">Anchor</a></b>
+      <br><sub>Alexa+ routine coach on MCP, Bedrock and Polly.</sub>
+    </td>
+  </tr>
+</table>
 
-### Tools I use
+### Stack
 
-[![Tech](https://skillicons.dev/icons?i=python,nodejs,ts,react,nextjs,nestjs,express,postgres,prisma,aws,gcp,docker,githubactions)](https://abdullahkhan.io)
-
-B.Sc. Computer Science + Business Management, Western University.
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts" height="36" alt="Python, JavaScript, TypeScript"></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs" height="36" alt="React, Next.js"></td>
+  </tr>
+  <tr>
+    <td><b>Backend & data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma" height="36" alt="Node.js, Express, Nest.js, PostgreSQL, Prisma"></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker" height="36" alt="AWS, GCP, Docker"></td>
+  </tr>
+</table>
