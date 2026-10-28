@@ -4,7 +4,7 @@
 
 **Full Stack Engineer** &nbsp;·&nbsp; **AI App Builder** &nbsp;·&nbsp; **Generalist**
 
-[![Website](https://img.shields.io/badge/abdullahkhan.io-5fd4c4?style=for-the-badge&logo=googlechrome&logoColor=0a1420)](https://abdullahkhan.io)
+[![Website](https://img.shields.io/badge/abdullahkhan.io-90a955?style=for-the-badge&logo=googlechrome&logoColor=0a1420)](https://abdullahkhan.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahskhan/)
 
 </div>
