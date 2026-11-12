@@ -14,6 +14,18 @@
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://github.com/akhan445/giveback"><img src="https://akhan445.github.io/projects/giveback.webp" alt="giveback"></a>
+      <br><b><a href="https://github.com/akhan445/anchor-alexa-coach">giveback</a></b>
+      <br><sub>PayPal point-of-sale and giving platform for nonprofits, with an AI cash-flow assistant.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/akhan445/anchor-alexa-coach"><img src="https://akhan445.github.io/projects/anchor-alexa-coach.webp" alt="Anchor"></a>
+      <br><b><a href="https://github.com/akhan445/anchor-alexa-coach">Anchor</a></b>
+      <br><sub>Alexa+ routine coach on MCP, Bedrock and Polly.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <a href="https://github.com/akhan445/scope-to-ship"><img src="https://akhan445.github.io/projects/scope-to-ship.webp" alt="Scope to Ship"></a>
       <br><b><a href="https://github.com/akhan445/scope-to-ship">Scope to Ship</a></b>
       <br><sub>Agent skills that take an idea from spec to shipped app.</sub>
@@ -22,11 +34,6 @@
       <a href="https://github.com/akhan445/four-seasons-of-canada"><img src="https://akhan445.github.io/projects/four-seasons-of-canada.webp" alt="Four Seasons of Canada"></a>
       <br><b><a href="https://github.com/akhan445/four-seasons-of-canada">Four Seasons of Canada</a></b>
       <br><sub>Interactive map, built end to end with Scope to Ship.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/akhan445/anchor-alexa-coach"><img src="https://akhan445.github.io/projects/anchor-alexa-coach.webp" alt="Anchor"></a>
-      <br><b><a href="https://github.com/akhan445/anchor-alexa-coach">Anchor</a></b>
-      <br><sub>Alexa+ routine coach on MCP, Bedrock and Polly.</sub>
     </td>
   </tr>
 </table>
